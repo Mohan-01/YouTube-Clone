@@ -13,7 +13,7 @@ import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import InsertEmoticonOutlinedIcon from '@mui/icons-material/InsertEmoticonOutlined';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = '/public/logo.png';
+export const logo = '/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
@@ -40,4 +40,4 @@ export const demoChannelUrl = 'https://www.youtube.com/channel/UC_aEa8K-EOJ3D6gO
 export const demoVideoUrl = '/video/QJKrGkRCS5g';
 export const demoChannelTitle = 'NoCopyrightSounds ';
 export const demoVideoTitle = 'intouch - Love U | Garage House | NCS - Copyright Free Music';
-export const demoProfilePicture = '/public/channel_pic.jpg'
+export const demoProfilePicture = '/channel_pic.jpg'
