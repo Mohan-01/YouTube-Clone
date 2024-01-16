@@ -13,7 +13,7 @@ import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import InsertEmoticonOutlinedIcon from '@mui/icons-material/InsertEmoticonOutlined';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = '/public/favicon.ico';
+export const logo = '/public/logo.png';
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
